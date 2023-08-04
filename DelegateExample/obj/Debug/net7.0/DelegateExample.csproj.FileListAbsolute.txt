@@ -1,0 +1,15 @@
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.exe
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.deps.json
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.runtimeconfig.json
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.dll
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\bin\Debug\net7.0\DelegateExample.pdb
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.csproj.AssemblyReference.cache
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.AssemblyInfoInputs.cache
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.AssemblyInfo.cs
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.csproj.CoreCompileInputs.cache
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.dll
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\refint\DelegateExample.dll
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.pdb
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\DelegateExample.genruntimeconfig.cache
+G:\Projects\C#\CodeWars\DelegateExample\DelegateExample\obj\Debug\net7.0\ref\DelegateExample.dll
