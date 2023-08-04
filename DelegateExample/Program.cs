@@ -1,18 +1,18 @@
 ﻿using DelegateExample;
 
-WorkPerformedHandler delPerformed = new WorkPerformedHandler(Worker_WorkPerformed);
-WorkCompletedHandler delConpleted = new WorkCompletedHandler(Worker_WorkCompleted);
+var delPerformed = new WorkPerformedHandler(WorkerWorkPerformed);
+var delCompleted = new WorkCompletedHandler(WorkerWorkCompleted);
 
-Worker worker = new Worker();
-worker.DoWork(5, "Generating Report", delPerformed, delConpleted);
+Worker.DoWork(5, "Generating Report", delPerformed, delCompleted);
 Console.ReadKey();
+return;
 
-static void Worker_WorkPerformed(int hours, string workType)
+static void WorkerWorkPerformed(int hours, string workType)
 {
-    Console.WriteLine($"{hours} Hours compelted for {workType}");
+    Console.WriteLine($"{hours} Hours completed for {workType}");
 }
 
-static void Worker_WorkCompleted(string workType)
+static void WorkerWorkCompleted(string workType)
 {
-    Console.WriteLine($"{workType} work compplted");
+    Console.WriteLine($"{workType} work completed");
 }
